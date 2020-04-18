@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-securiry-jwt-example:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>spring-securiry-jwt-example</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="spring-securiry-jwt-example-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="spring-securiry-jwt-example:war exploded" />
+    </root>
+  </artifact>
+</component>
